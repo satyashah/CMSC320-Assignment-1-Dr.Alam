@@ -1,3 +1,3 @@
-Q2: What field could data science be applied to? Give and Example and how it might help
+Q3: What is the difference between merging and rebasing?
 
-Answer: Medicine, we could use it to see the results of a clinical trial and see if a new drug is effective!
+Answer: Merging combines the histories of two branches. Rebasing, moves a sequence of commits to the end of main, creating linear history.
