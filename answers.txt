@@ -1,7 +1,0 @@
-Q1: Why might be consider using git?
-
-Answer: For project organizations and working on a singular code base with large teams.
-
-Q2: What field could data science be applied to? Give and Example and how it might help
-
-Answer: Medicine, we could use it to see the results of a clinical trial and see if a new drug is effective!
