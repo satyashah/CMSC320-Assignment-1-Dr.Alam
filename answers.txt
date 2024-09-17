@@ -1,3 +1,15 @@
+Q1: Why might be consider using git?
+
+Answer: For project organizations and working on a singular code base with large teams.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Medicine, we could use it to see the results of a clinical trial and see if a new drug is effective!
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines two git histories, but rebasing moves one commit history to the begining of the other branch keeping linear history.
+
 Q4: What skills do you hope to improve during this course?
 
 Answer: I would love to get better at SQL and be able to add it to my skill set!
